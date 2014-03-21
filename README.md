@@ -1,5 +1,8 @@
 
-GIST is the fastest way to check multiple Gmail inboxes for unread messages.
+GIST
+====
+
+Check multiple Gmail inboxes from Terminal.
 
 Replace "emails = ['example@gmail.com', 'example2@gmail.com']" in gist.py with your Gmail addresses. Works for Google Apps accounts too.
 
